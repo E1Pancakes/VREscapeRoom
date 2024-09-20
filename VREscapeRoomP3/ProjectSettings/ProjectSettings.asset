@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 4f1ade8f9dcb6d74dab927b0a42d85fc
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -787,7 +787,7 @@ PlayerSettings:
   cloudProjectId: 8dbc29a3-81c6-4e32-ac16-0ea95a131bd3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: VREscapeRoomP3
   organizationId: 718717-student-dusd-net
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
