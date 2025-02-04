@@ -566,7 +566,7 @@ Transform:
   m_Children:
   - {fileID: 189187869}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &476822290
 GameObject:
@@ -1079,6 +1079,21 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &745732224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 745732222}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d6765015c7496d41abb8873e08b5312, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CloseCaptioned: 0
+  Clips:
+  - {fileID: 8300000, guid: e28c90b3e8525e24e8ffcc0a5e81f376, type: 3}
 --- !u!1 &750615036
 GameObject:
   m_ObjectHideFlags: 0
